@@ -50,7 +50,7 @@ This project uses machine learning to:
 
 ### Dashboard Overview
 
-<img width="1915" height="848" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/ecba1b1e-6a98-454d-a56d-0cdca91c10da" />
+<img width="1915" height="848" alt="Dashboard Overview" src="https://github.com/Tharun9092/Ai-customer-churn-dashboard/blob/1b4b0fcda57cb1d57fbd84e24aa7d820685d41fb/Dashboard%20Overview.png" />
 ### Prediction Results
 
 (Add screenshot here)
