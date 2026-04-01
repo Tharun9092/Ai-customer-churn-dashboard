@@ -53,7 +53,7 @@ This project uses machine learning to:
 <img width="1915" height="848" alt="Dashboard Overview" src="https://github.com/Tharun9092/Ai-customer-churn-dashboard/blob/1b4b0fcda57cb1d57fbd84e24aa7d820685d41fb/Dashboard%20Overview.png" />
 ### Prediction Results
 
-(Add screenshot here)
+<img width="1915" height="848" alt="Results Overview" src="https://github.com/Tharun9092/Ai-customer-churn-dashboard/blob/8be8e017ef6ab69e7cdc013abe9e7bf5a1dfc822/Results%20Overview.png" />
 
 ---
 
