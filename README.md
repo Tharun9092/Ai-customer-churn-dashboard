@@ -59,7 +59,7 @@ This project uses machine learning to:
 
 ## 🌍 Live Demo
 
-👉 (Paste your Streamlit link here after deployment)
+👉 (https://ai-customer-churn-dashboard-tharun9092.streamlit.app/)
 
 ---
 
