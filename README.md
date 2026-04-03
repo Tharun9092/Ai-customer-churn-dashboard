@@ -126,7 +126,7 @@ ChurnPredict/
 
 ## 🌐 Live Demo
 
-👉 https://ai-customer-churn-dashboard-tharun9092.streamlit.app/
+👉 [https://ai-customer-churn-dashboard-tharun9092.streamlit.app/](https://ai-customer-churn-dashboard-prediction.streamlit.app/)
 
 ---
 
